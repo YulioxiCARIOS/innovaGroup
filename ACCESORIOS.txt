@@ -1,0 +1,172 @@
+Accesorios
+
+Nombre
+
+Audifonos
+
+Precio
+
+15000
+
+Caracteristicas
+Con micrófono incorporado, el largo del cable es de 2 m, sonido superior y sin límites. Cómodos y prácticos.
+
+Imagen
+
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2FAudifonos.png?alt=media&token=203ed365-0e08-4b50-8d37-6effae010460&_gl=1*hq201v*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTYyMDQuMC4wLjA.
+
+---------------------
+
+Nombre
+
+Base par notebook
+
+Precio
+
+25000
+
+Caracteristicas
+Soporte Ajustable, Plastico ABS, 30cm * 20cm, Es antideslizante.
+
+Imagen
+
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2FBase%20para%20Note.png?alt=media&token=3f50b39a-8fcd-4032-8dec-964519b0bd59&_gl=1*1t609mf*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTYyMjguMC4wLjA.
+
+--------------------------
+Nombre
+
+Funda para Notebook
+
+Precio
+
+12500
+
+Caracteristicas
+
+Es Generica, Cuero sintetico y posee bolsillo externo.
+
+Imagen
+
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2FFunda%20para%20NOt.png?alt=media&token=d740f981-d85c-4a3f-8e26-9864c11aa7bf&_gl=1*agfu6r*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3
+*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTYyNDUuMC4wLjA.
+
+-----------------------
+Nombre
+
+Impresora Negra HP
+
+Precio
+
+58000
+
+Caracteristicas
+Impresión a Color, Impresión, escaneo, copiado, AAD y conexión inalámbrica USB 2.0 de alta velocidad, Wi-Fi, Bluetooth.
+
+Imagen
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2FImpresora%20Negra.png?alt=media&token=0c28aefe-f80d-464a-80f6-6a4966f594a2&_gl=1*1t1ydcx*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTY1MDMuMC4wLjA.
+
+
+-----------------------
+Nombre
+
+Kit de Accesorios
+
+Precio
+
+35000
+
+Caracteristicas
+Es una combinación de accesorios útiles para mejorar tu experiencia informática, en resumen ofrece comodidad, funcionalidad y protección.
+
+Imagen
+
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2FKit%20de%20accesorios.png?alt=media&token=278a2e83-ec24-455c-b262-d002a1efc1cf&_gl=1*1uxz7lu*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTYyNjUuMC4wLjA.
+-----------------------
+Nombre
+
+Microfono	
+
+Precio
+
+42000
+
+Caracteristicas
+Para los editores de video, streamers y gamers micrófono USB, grabaciones de 24 bits y 96 kHz, conexión USB-C, versátil micrófono viene con un soporte ajustable y flexible.
+
+Imagen
+
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2FMicrofono.png?alt=media&token=b2b58cdd-a8cb-4c35-ba5e-d4bccf89ce75&_gl=1*1nkm71*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTYyOTcuMC4wLjA.
+-----------------------
+Nombre
+
+Mouse para juego	
+
+Precio
+8500
+
+Caracteristicas
+El mouse tiene un diseño ergonómico con forma simétrica que se adapta a los agarres de la palma y tipo garra. Además, los lados son texturizados y ofrecen un agarre antideslizante.
+
+Imagen
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2FMouse%20para%20juegos%20HyperX%20Pulsefire%20Core%20-%20(Negro).png?alt=media&token=574c5b52-4598-4352-8294-c4eeec8897b5&_gl=1*s7v6kb*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTYzMjAuMC4wLjA.
+-----------------------
+Nombre
+
+Pendrive 3.0
+
+Precio
+
+3900
+
+Caracteristicas
+
+El pen drive 3.0 es capaz de alcanzar velocidades de transferencia mucho más rápidas que las versiones anteriores.
+
+Imagen
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2FPenDrive.jpg?alt=media&token=b72d10ad-695c-4e38-a7e2-b2378ea38b23&_gl=1*eipb2e*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTYzNjguMC4wLjA.
+-----------------------
+Nombre
+
+Teclado y Mouse
+
+Precio
+
+12000
+
+Caracteristicas
+Combinación de dos accesorios esenciales para tu computadora. Los teclados en los kits suelen tener un diseño ergonómico que brinda comodidad durante largas sesiones de escritura. Los mouses en los kits suelen contar con un sensor óptico de alta precisión para un seguimiento preciso del movimiento y una respuesta rápida. 
+
+Imagen
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2FTeclado%20y%20mouse.png?alt=media&token=ac68ff50-dd02-428a-a48a-f545c5e15cf2&_gl=1*13a55ii*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTYzOTMuMC4wLjA.
+-----------------------
+
+Nombre
+
+Impresora Multifuncional HP
+
+
+Precio
+
+65000
+
+Caracteristicas
+Son conocidas por su versatilidad y capacidad para realizar múltiples tareas en un solo dispositivo, Impresión, escaneo y copiado, cuenta con  puertos USB, conexiones Wi-Fi.
+
+Imagen
+https://firebasestorage.googleapis.com/v0/b/innova-d38dd.appspot.com/o/Accesorios%2Fimpresora%20Multifuncional%20HP%20Deskjet%20Ink%20Advantage%202375.png?alt=media&token=79c70393-9c51-4784-ab9e-574be9862943&_gl=1*1s453qz*_ga*MTU4NDY2NzI4Ni4xNjg0NTQxOTM3*_ga_CW55HF8NVT*MTY4NTc1NTcwNS4xMS4xLjE2ODU3NTY0MTAuMC4wLjA.
+-----------------------
+
+
+
+        <div class="uno">
+        <div class="cards">
+            <div class="cardUno">
+                <img class="img imagenUno" src="${array[i].Imagen}" alt="" srcset="">
+                <div class="title">${array[i].Nombre}</div>
+                <div class="price">
+                    <div class="price-ver">$${array[i].Precio}</div>                 
+                </div>
+                <div class="verMas" ><button class="but botonCarrito boton-agregar" id="agregar${array[i].id}" col-9">AGREGAR AL CARRITO</div><i class="fa-solid fa-cart-shopping"></i></div>
+                
+            </div>
+        </div> 
